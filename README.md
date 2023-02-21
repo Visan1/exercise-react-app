@@ -10,9 +10,8 @@ To build a web application using React to improve my skills in using React, and 
 These are further optimizations I am looking to add or in the middle of implementing when there is time.
 
 ---
-
--A dark mode for ease on the eyes
- -The similar exercises and similar equipment component should have a redirect to the actual exercise once clicked upon. 
+- A dark mode for ease on the eyes
+ - The similar exercises and similar equipment component should have a redirect to the actual exercise once clicked upon. 
 
 ---
 
