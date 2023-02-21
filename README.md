@@ -12,7 +12,7 @@ These are further optimizations I am looking to add or in the middle of implemen
 ---
 
 -A dark mode for ease on the eyes
--The similar exercises and similar equipment component should have a redirect to the actual exercise once clicked upon. 
+ -The similar exercises and similar equipment component should have a redirect to the actual exercise once clicked upon. 
 
 ---
 
@@ -20,7 +20,7 @@ These are further optimizations I am looking to add or in the middle of implemen
 
 # Things to add to use the application
 
-- Create a `.env` file in config folder and add the following as `key = value`
+- Create a `.env` file and add the following as `key = value`
   - REACT_APP_RAPID_API_KEY = your Rapid API key 
 
 ---
